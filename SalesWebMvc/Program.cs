@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace SalesWebMvc
+namespace SalesWebMvc.Models.ViewModels
 {
     public class Program
     {
